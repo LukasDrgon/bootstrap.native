@@ -30,7 +30,7 @@
   "homepage": "https://thednp.github.io/bootstrap.native/",
   "devDependencies": {
     "onchange": "^3.0.2",
-    "uglify-js": "^2.7.3",
-    "yargs": "^5.0.0"
+    "uglify-js": "^3.0.28",
+    "yargs": "^8.0.2"
   }
 }
